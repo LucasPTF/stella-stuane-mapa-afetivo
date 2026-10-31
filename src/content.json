@@ -883,34 +883,6 @@
               "text": "Laísa Borges",
               "kind": "public",
               "className": ""
-            },
-            {
-              "id": "B1-s06-b013",
-              "tag": "p",
-              "text": "“Stella tem um cuidado e uma sensibilidade incrível em cada detalhe.”",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B1-s06-b014",
-              "tag": "cite",
-              "text": "Relato sem identificação",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B1-s06-b015",
-              "tag": "p",
-              "text": "“Ainda estou em processo de aprendizado, assim como nós dois estamos construindo nossa relação dia após dia.”",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B1-s06-b016",
-              "tag": "cite",
-              "text": "Relato sem identificação",
-              "kind": "public",
-              "className": ""
             }
           ],
           "tree": {
@@ -984,36 +956,6 @@
                   {
                     "type": "block",
                     "id": "B1-s06-b012"
-                  }
-                ]
-              },
-              {
-                "type": "group",
-                "tag": "blockquote",
-                "className": "quote",
-                "children": [
-                  {
-                    "type": "block",
-                    "id": "B1-s06-b013"
-                  },
-                  {
-                    "type": "block",
-                    "id": "B1-s06-b014"
-                  }
-                ]
-              },
-              {
-                "type": "group",
-                "tag": "blockquote",
-                "className": "quote",
-                "children": [
-                  {
-                    "type": "block",
-                    "id": "B1-s06-b015"
-                  },
-                  {
-                    "type": "block",
-                    "id": "B1-s06-b016"
                   }
                 ]
               }
@@ -1566,34 +1508,6 @@
               "text": "Laísa Borges",
               "kind": "public",
               "className": ""
-            },
-            {
-              "id": "B2-s06-b013",
-              "tag": "p",
-              "text": "“Stella tem um cuidado e uma sensibilidade incrível em cada detalhe.”",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B2-s06-b014",
-              "tag": "cite",
-              "text": "Relato sem identificação",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B2-s06-b015",
-              "tag": "p",
-              "text": "“Ainda estou em processo de aprendizado, assim como nós dois estamos construindo nossa relação dia após dia.”",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B2-s06-b016",
-              "tag": "cite",
-              "text": "Relato sem identificação",
-              "kind": "public",
-              "className": ""
             }
           ],
           "tree": {
@@ -1667,36 +1581,6 @@
                   {
                     "type": "block",
                     "id": "B2-s06-b012"
-                  }
-                ]
-              },
-              {
-                "type": "group",
-                "tag": "blockquote",
-                "className": "quote",
-                "children": [
-                  {
-                    "type": "block",
-                    "id": "B2-s06-b013"
-                  },
-                  {
-                    "type": "block",
-                    "id": "B2-s06-b014"
-                  }
-                ]
-              },
-              {
-                "type": "group",
-                "tag": "blockquote",
-                "className": "quote",
-                "children": [
-                  {
-                    "type": "block",
-                    "id": "B2-s06-b015"
-                  },
-                  {
-                    "type": "block",
-                    "id": "B2-s06-b016"
                   }
                 ]
               }
@@ -2249,34 +2133,6 @@
               "text": "Cristiane",
               "kind": "public",
               "className": ""
-            },
-            {
-              "id": "B3-s06-b013",
-              "tag": "p",
-              "text": "“Stella tem um cuidado e uma sensibilidade incrível em cada detalhe.”",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B3-s06-b014",
-              "tag": "cite",
-              "text": "Relato sem identificação",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B3-s06-b015",
-              "tag": "p",
-              "text": "“Ainda estou em processo de aprendizado, assim como nós dois estamos construindo nossa relação dia após dia.”",
-              "kind": "public",
-              "className": ""
-            },
-            {
-              "id": "B3-s06-b016",
-              "tag": "cite",
-              "text": "Relato sem identificação",
-              "kind": "public",
-              "className": ""
             }
           ],
           "tree": {
@@ -2350,36 +2206,6 @@
                   {
                     "type": "block",
                     "id": "B3-s06-b012"
-                  }
-                ]
-              },
-              {
-                "type": "group",
-                "tag": "blockquote",
-                "className": "quote",
-                "children": [
-                  {
-                    "type": "block",
-                    "id": "B3-s06-b013"
-                  },
-                  {
-                    "type": "block",
-                    "id": "B3-s06-b014"
-                  }
-                ]
-              },
-              {
-                "type": "group",
-                "tag": "blockquote",
-                "className": "quote",
-                "children": [
-                  {
-                    "type": "block",
-                    "id": "B3-s06-b015"
-                  },
-                  {
-                    "type": "block",
-                    "id": "B3-s06-b016"
                   }
                 ]
               }
