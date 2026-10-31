@@ -45,6 +45,10 @@ export function renderPage(data,b,revision){
   if(n===3)body=body.replaceAll('class="history-card"','class="history-card" data-surface');
   if(n===5)body+=`<div class="choice-art" aria-hidden="true" data-ambient>${ribbon('care')}</div>`;
   if(n===6){
+   const proofHeading=ss.blocks.find(x=>x.id.endsWith('-s06-b005'));
+   const introEnd=body.indexOf(block(proofHeading.id));
+   if(introEnd<0)throw Error('Expert introduction boundary missing');
+   body=`<div class="expert-intro"><div class="expert-copy">${body.slice(0,introEnd)}</div><figure class="expert-portrait"><img src="/images/stella-stuane.jpg" alt="Stella Stuane" width="480" height="640" loading="lazy" decoding="async"></figure></div>${body.slice(introEnd)}`;
    const marker=body.indexOf('<blockquote');if(marker>=0)body=body.slice(0,marker)+'<div class="quote-grid">'+body.slice(marker)+'</div>';
    body+='<div class="listening-arc" aria-hidden="true"></div>';
   }
