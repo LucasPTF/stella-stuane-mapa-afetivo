@@ -39,7 +39,7 @@ export function renderPage(data,b,revision){
  function section(n){
   const ss=data.shared[n]||variant.sections[n];
   const ids={1:'inicio',2:'olhar',3:'mapa',4:'encontro',5:'para-quem',6:'stella',7:'materiais-incluidos',8:'inscricao',9:'duvidas',10:'reflexao'};
-  let body=tree(ss.tree);
+  let body=tree(ss.tree),after='';
   if(n===1)body=`<div class="hero-layout"><div class="hero-copy">${body}</div>${heroArt()}</div>`;
   if(n===2)body+=`<div class="care-orbit" aria-hidden="true" data-surface><span></span><span></span><i></i></div>`;
   if(n===3)body=body.replaceAll('class="history-card"','class="history-card" data-surface');
@@ -50,9 +50,12 @@ export function renderPage(data,b,revision){
   }
   if(n===7)body=body.replace('<ul>','<ul class="materials-list">');
   if(n===8){
+   const guarantee=ss.blocks.find(x=>x.id.endsWith('-s08-b008'));
+   body=body.replace(block(guarantee.id),'');
+   after=`<section class="section guarantee-section" id="garantia" aria-label="Garantia de 7 dias" data-motion-section><div class="wrap guarantee-content"><div class="guarantee-seal" aria-label="Garantia de 7 dias">${ui('ui-seal-label','span','guarantee-seal__label')}${ui('ui-seal-number','strong','guarantee-seal__number')}${ui('ui-seal-unit','span','guarantee-seal__unit')}</div><div class="guarantee-copy">${block(guarantee.id)}</div></div></section>`;
    const baseprice=ss.blocks.find(x=>x.className==='price');
    const price=(id,text,amount)=>`<div class="lot-price" data-counter="${amount}"><span class="semantic-price" data-copy-id="${id}">${esc(text)}</span><span class="visual-price" aria-hidden="true">${esc(text)}</span></div>`;
-   body+=`<div class="lots" data-lots><div class="lot current">${ui('ui-lot1','h3')}${price('lot-price-1',baseprice.text,27)}</div><div class="lot">${ui('ui-lot2','h3')}${price('ui-price2',data.additions['ui-price2'],77)}</div><div class="lot">${ui('ui-lot3','h3')}${price('ui-price3',data.additions['ui-price3'],127)}</div></div><div class="offer-finish"><div class="countdown" role="timer" aria-label="Cronômetro"><div><span class="digits" data-copy-dynamic="count-days">00</span>${ui('ui-days')}</div><div><span class="digits" data-copy-dynamic="count-hours">00</span>${ui('ui-hours')}</div><div><span class="digits" data-copy-dynamic="count-minutes">00</span>${ui('ui-minutes')}</div><div><span class="digits" data-copy-dynamic="count-seconds">00</span>${ui('ui-seconds')}</div></div><div class="guarantee-seal" aria-label="Garantia de 7 dias">${ui('ui-seal-label','span','guarantee-seal__label')}${ui('ui-seal-number','strong','guarantee-seal__number')}${ui('ui-seal-unit','span','guarantee-seal__unit')}</div></div>`;
+   body+=`<div class="lots" data-lots><div class="lot current">${ui('ui-lot1','h3')}${price('lot-price-1',baseprice.text,27)}</div><div class="lot">${ui('ui-lot2','h3')}${price('ui-price2',data.additions['ui-price2'],77)}</div><div class="lot">${ui('ui-lot3','h3')}${price('ui-price3',data.additions['ui-price3'],127)}</div></div><div class="offer-finish"><div class="countdown" role="timer" aria-label="Cronômetro"><div><span class="digits" data-copy-dynamic="count-days">00</span>${ui('ui-days')}</div><div><span class="digits" data-copy-dynamic="count-hours">00</span>${ui('ui-hours')}</div><div><span class="digits" data-copy-dynamic="count-minutes">00</span>${ui('ui-minutes')}</div><div><span class="digits" data-copy-dynamic="count-seconds">00</span>${ui('ui-seconds')}</div></div></div>`;
   }
   if(n===9){
    const children=ss.tree.children,parts=[];
@@ -64,7 +67,7 @@ export function renderPage(data,b,revision){
    body=parts.join('');
   }
   if(n===10)body+=`<div class="closing-mark" aria-hidden="true"><span></span><i></i><span></span></div>`;
-  return `<section class="section section-${n}${n===1?' hero':''}" id="${ids[n]}" data-section="${n}" data-motion-section><div class="wrap section-content">${body}</div></section>`;
+  return `<section class="section section-${n}${n===1?' hero':''}" id="${ids[n]}" data-section="${n}" data-motion-section><div class="wrap section-content">${body}</div></section>${after}`;
  }
  const sourceHeadline=variant.sections['1'].blocks.find(x=>x.className==='page-headline').text;
  const header=`<a class="skip" href="#inicio" data-copy-id="ui-skip">${esc(data.additions['ui-skip'])}</a><header class="site-header"><a class="brand" href="#inicio" data-copy-id="ui-brand">${esc(data.brand)}</a><nav aria-label="Navegação"><a href="#encontro" data-copy-id="ui-nav-program">${esc(data.additions['ui-nav-program'])}</a><a href="#para-quem" data-copy-id="ui-nav-who">${esc(data.additions['ui-nav-who'])}</a><a href="#stella" data-copy-id="ui-nav-about">${esc(data.additions['ui-nav-about'])}</a><a class="nav-cta" href="#inscricao" data-copy-id="ui-nav-offer">${esc(data.additions['ui-nav-offer'])}</a></nav></header>`;
