@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vercel/
+.page-audit/
+design-system/
+*.log
+.env*

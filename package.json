@@ -1,0 +1,12 @@
+{
+  "name": "stella-stuane-mapa-afetivo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node --check src/site.js && node --check src/render.mjs && node --check scripts/build.mjs"
+  },
+  "engines": {"node": ">=22"}
+}

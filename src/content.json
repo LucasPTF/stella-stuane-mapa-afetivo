@@ -1,0 +1,2733 @@
+{
+  "shared": {
+    "2": {
+      "number": 2,
+      "blocks": [
+        {
+          "id": "shared-s02-b001",
+          "tag": "h3",
+          "text": "Um olhar sem culpa",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s02-b002",
+          "tag": "p",
+          "text": "Não é uma prova de que falta valor em você. Nem uma disputa para descobrir quem foi o culpado. A proposta é observar o que parecia fazer sentido no começo, os sinais que surgiram e as escolhas que vieram depois.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s02-b003",
+          "tag": "p",
+          "text": "Você pode reconhecer uma repetição sem transformar toda a sua história numa acusação contra si. O mapa abre perguntas; ele não dá uma nota sobre quem você é.",
+          "kind": "public",
+          "className": ""
+        }
+      ],
+      "tree": {
+        "type": "group",
+        "tag": "section",
+        "className": "document-copy",
+        "children": [
+          {
+            "type": "block",
+            "id": "shared-s02-b001"
+          },
+          {
+            "type": "block",
+            "id": "shared-s02-b002"
+          },
+          {
+            "type": "block",
+            "id": "shared-s02-b003"
+          }
+        ]
+      }
+    },
+    "3": {
+      "number": 3,
+      "blocks": [
+        {
+          "id": "shared-s03-b001",
+          "tag": "h3",
+          "text": "Três histórias, lado a lado",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b002",
+          "tag": "p",
+          "text": "No Mapa do Padrão Afetivo, você registra três relacionamentos ou envolvimentos. Para cada um, observa como começou, o primeiro sinal de indisponibilidade, o que sentiu, o que tolerou e quando passou a tentar ser escolhida.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b003",
+          "tag": "p",
+          "text": "Depois, compara os registros e identifica o que merece atenção. Você pode fazer o exercício para si, sem compartilhar nomes, mensagens ou detalhes íntimos.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b004",
+          "tag": "h4",
+          "text": "História 1",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b005",
+          "tag": "p",
+          "text": "Começo: conversa frequente. Sinal: combinados cancelados. Escolha: esperar uma mudança.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b006",
+          "tag": "h4",
+          "text": "História 2",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b007",
+          "tag": "p",
+          "text": "Começo: aproximação intensa. Sinal: presença irregular. Escolha: justificar a ausência.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b008",
+          "tag": "h4",
+          "text": "História 3",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b009",
+          "tag": "p",
+          "text": "Começo: promessas de futuro. Sinal: planos sem continuidade. Escolha: deixar a própria vontade para depois.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s03-b010",
+          "tag": "p",
+          "text": "Exemplo fictício de preenchimento, criado apenas para mostrar o exercício. Não descreve uma cliente nem demonstra um resultado.",
+          "kind": "public",
+          "className": ""
+        }
+      ],
+      "tree": {
+        "type": "group",
+        "tag": "section",
+        "className": "document-copy",
+        "children": [
+          {
+            "type": "block",
+            "id": "shared-s03-b001"
+          },
+          {
+            "type": "block",
+            "id": "shared-s03-b002"
+          },
+          {
+            "type": "block",
+            "id": "shared-s03-b003"
+          },
+          {
+            "type": "group",
+            "tag": "div",
+            "className": "grid",
+            "children": [
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "card",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s03-b004"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s03-b005"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "card",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s03-b006"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s03-b007"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "card",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s03-b008"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s03-b009"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block",
+            "id": "shared-s03-b010"
+          }
+        ]
+      }
+    },
+    "4": {
+      "number": 4,
+      "blocks": [
+        {
+          "id": "shared-s04-b001",
+          "tag": "h3",
+          "text": "O encontro de três horas",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b002",
+          "tag": "p",
+          "text": "Um workshop online ao vivo, pelo Zoom, com Stella Stuane. Você acompanha a reflexão e as práticas com seus próprios registros.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b003",
+          "tag": "b",
+          "text": "Abertura e contexto",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b004",
+          "tag": "span",
+          "text": "Como as histórias começam e quais perguntas ajudam a olhar para elas.",
+          "kind": "public",
+          "className": "direct-text"
+        },
+        {
+          "id": "shared-s04-b005",
+          "tag": "b",
+          "text": "Intensidade e reciprocidade",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b006",
+          "tag": "span",
+          "text": "O que uma aproximação desperta e o que as atitudes mostram ao longo da relação.",
+          "kind": "public",
+          "className": "direct-text"
+        },
+        {
+          "id": "shared-s04-b007",
+          "tag": "b",
+          "text": "O mapa das três histórias",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b008",
+          "tag": "span",
+          "text": "Começo, primeiros sinais, sentimentos, o que foi tolerado e o momento de tentar ser escolhida.",
+          "kind": "public",
+          "className": "direct-text"
+        },
+        {
+          "id": "shared-s04-b009",
+          "tag": "b",
+          "text": "Pausa de 10 minutos",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b010",
+          "tag": "span",
+          "text": "Um intervalo entre a prática do mapa e a reflexão seguinte.",
+          "kind": "public",
+          "className": "direct-text"
+        },
+        {
+          "id": "shared-s04-b011",
+          "tag": "b",
+          "text": "Referências de amor",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b012",
+          "tag": "span",
+          "text": "Como a própria história pode influenciar o que parece familiar, sem procurar culpados.",
+          "kind": "public",
+          "className": "direct-text"
+        },
+        {
+          "id": "shared-s04-b013",
+          "tag": "b",
+          "text": "Três critérios escritos",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b014",
+          "tag": "span",
+          "text": "Exemplos concretos para observar presença, coerência e reciprocidade.",
+          "kind": "public",
+          "className": "direct-text"
+        },
+        {
+          "id": "shared-s04-b015",
+          "tag": "b",
+          "text": "Integração e encerramento",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b016",
+          "tag": "span",
+          "text": "Revisão do que foi observado, orientações finais e espaço para perguntas.",
+          "kind": "public",
+          "className": "direct-text"
+        },
+        {
+          "id": "shared-s04-b017",
+          "tag": "p",
+          "text": "Ao final, a proposta é que você tenha o mapa das três histórias e três critérios escritos de reciprocidade, para continuar observando suas escolhas.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s04-b018",
+          "tag": "span",
+          "text": "Ver minha inscrição",
+          "kind": "public",
+          "className": "ready-cta"
+        }
+      ],
+      "tree": {
+        "type": "group",
+        "tag": "section",
+        "className": "document-copy",
+        "children": [
+          {
+            "type": "block",
+            "id": "shared-s04-b001"
+          },
+          {
+            "type": "block",
+            "id": "shared-s04-b002"
+          },
+          {
+            "type": "group",
+            "tag": "div",
+            "className": "timeline",
+            "children": [
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b003"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b004"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b005"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b006"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b007"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b008"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b009"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b010"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b011"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b012"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b013"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b014"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b015"
+                  },
+                  {
+                    "type": "block",
+                    "id": "shared-s04-b016"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block",
+            "id": "shared-s04-b017"
+          },
+          {
+            "type": "block",
+            "id": "shared-s04-b018"
+          }
+        ]
+      }
+    },
+    "5": {
+      "number": 5,
+      "blocks": [
+        {
+          "id": "shared-s05-b001",
+          "tag": "h3",
+          "text": "Para quem faz sentido",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s05-b002",
+          "tag": "li",
+          "text": "Mulheres que desejam observar o que se repete nas próprias relações.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s05-b003",
+          "tag": "li",
+          "text": "Quem já leu ou ouviu sobre o tema e quer fazer uma reflexão guiada com suas histórias.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s05-b004",
+          "tag": "li",
+          "text": "Quem quer olhar para sinais de disponibilidade além da intensidade do começo.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s05-b005",
+          "tag": "li",
+          "text": "Quem deseja dar exemplos concretos a palavras como respeito, presença e reciprocidade.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s05-b006",
+          "tag": "li",
+          "text": "Quem está disposta a refletir sobre as próprias escolhas, com cuidado e sem julgamentos.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s05-b007",
+          "tag": "p",
+          "text": "Este encontro não ensina fórmulas para fazer alguém se apaixonar ou convencer uma pessoa a ficar. Ele também não oferece uma resposta pronta para decidir por outra pessoa.",
+          "kind": "public",
+          "className": ""
+        }
+      ],
+      "tree": {
+        "type": "group",
+        "tag": "section",
+        "className": "document-copy",
+        "children": [
+          {
+            "type": "block",
+            "id": "shared-s05-b001"
+          },
+          {
+            "type": "group",
+            "tag": "ul",
+            "className": "",
+            "children": [
+              {
+                "type": "block",
+                "id": "shared-s05-b002"
+              },
+              {
+                "type": "block",
+                "id": "shared-s05-b003"
+              },
+              {
+                "type": "block",
+                "id": "shared-s05-b004"
+              },
+              {
+                "type": "block",
+                "id": "shared-s05-b005"
+              },
+              {
+                "type": "block",
+                "id": "shared-s05-b006"
+              }
+            ]
+          },
+          {
+            "type": "block",
+            "id": "shared-s05-b007"
+          }
+        ]
+      }
+    },
+    "7": {
+      "number": 7,
+      "blocks": [
+        {
+          "id": "shared-s07-b001",
+          "tag": "h3",
+          "text": "Materiais para continuar observando",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s07-b002",
+          "tag": "li",
+          "text": "Mapa do Padrão Afetivo: apoio para organizar os registros das três histórias.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s07-b003",
+          "tag": "li",
+          "text": "Checklist Disponibilidade Emocional x Indisponibilidade Emocional: perguntas e sinais para observar as relações com mais clareza.",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s07-b004",
+          "tag": "p",
+          "text": "Os dois materiais estão incluídos no ingresso. Eles apoiam a reflexão e não funcionam como teste ou diagnóstico de outra pessoa.",
+          "kind": "public",
+          "className": ""
+        }
+      ],
+      "tree": {
+        "type": "group",
+        "tag": "section",
+        "className": "document-copy",
+        "children": [
+          {
+            "type": "block",
+            "id": "shared-s07-b001"
+          },
+          {
+            "type": "group",
+            "tag": "ul",
+            "className": "",
+            "children": [
+              {
+                "type": "block",
+                "id": "shared-s07-b002"
+              },
+              {
+                "type": "block",
+                "id": "shared-s07-b003"
+              }
+            ]
+          },
+          {
+            "type": "block",
+            "id": "shared-s07-b004"
+          }
+        ]
+      }
+    },
+    "10": {
+      "number": 10,
+      "blocks": [
+        {
+          "id": "shared-s10-b001",
+          "tag": "h3",
+          "text": "Um espaço de reflexão",
+          "kind": "public",
+          "className": ""
+        },
+        {
+          "id": "shared-s10-b002",
+          "tag": "p",
+          "text": "O workshop é educativo e propõe autoconhecimento. Não substitui acompanhamento médico ou psicológico e não oferece diagnóstico, promessa de cura ou resultado garantido.",
+          "kind": "public",
+          "className": ""
+        }
+      ],
+      "tree": {
+        "type": "group",
+        "tag": "section",
+        "className": "document-copy",
+        "children": [
+          {
+            "type": "block",
+            "id": "shared-s10-b001"
+          },
+          {
+            "type": "block",
+            "id": "shared-s10-b002"
+          }
+        ]
+      }
+    }
+  },
+  "variants": {
+    "B1": {
+      "id": "B1",
+      "route": "/a1",
+      "label": "As histórias se repetem",
+      "sections": {
+        "1": {
+          "number": 1,
+          "blocks": [
+            {
+              "id": "B1-s01-b002",
+              "tag": "div",
+              "text": "HISTÓRIAS QUE SE REPETEM",
+              "kind": "public",
+              "className": "label"
+            },
+            {
+              "id": "B1-s01-b003",
+              "tag": "h2",
+              "text": "Monte seu Mapa do Padrão Afetivo",
+              "kind": "public",
+              "className": "page-headline"
+            },
+            {
+              "id": "B1-s01-b004",
+              "tag": "p",
+              "text": "Workshop ao vivo para observar o começo das suas relações.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s01-b005",
+              "tag": "p",
+              "text": "Workshop: Por que Você Sempre Escolhe Quem Não Te Escolhe?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s01-b006",
+              "tag": "span",
+              "text": "Ao vivo pelo Zoom",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s01-b007",
+              "tag": "span",
+              "text": "3 horas",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s01-b008",
+              "tag": "span",
+              "text": "Mapa e checklist",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s01-b009",
+              "tag": "span",
+              "text": "R$ 27",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s01-b010",
+              "tag": "span",
+              "text": "Quero participar",
+              "kind": "public",
+              "className": "ready-cta"
+            },
+            {
+              "id": "B1-s01-b011",
+              "tag": "p",
+              "text": "Muda o nome, muda o rosto e, quando você olha para trás, encontra um começo parecido. Colocar as histórias lado a lado pode ajudar a perceber o que passa despercebido quando cada relação é olhada sozinha.",
+              "kind": "public",
+              "className": ""
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "mini-hero",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B1-s01-b002"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s01-b003"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s01-b004"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s01-b005"
+                  },
+                  {
+                    "type": "group",
+                    "tag": "div",
+                    "className": "chips",
+                    "children": [
+                      {
+                        "type": "block",
+                        "id": "B1-s01-b006"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B1-s01-b007"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B1-s01-b008"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B1-s01-b009"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s01-b010"
+                  }
+                ]
+              },
+              {
+                "type": "block",
+                "id": "B1-s01-b011"
+              }
+            ]
+          }
+        },
+        "6": {
+          "number": 6,
+          "blocks": [
+            {
+              "id": "B1-s06-b001",
+              "tag": "h3",
+              "text": "Quem conduz",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b002",
+              "tag": "p",
+              "text": "Sou Stella Stuane, terapeuta emocional desde 2021, com formação em Terapias Integrativas e IMT. No meu trabalho, a escuta parte da história de cada mulher e das referências que ela construiu ao longo da vida.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b003",
+              "tag": "p",
+              "text": "Ao acompanhar mulheres, percebi como saber racionalmente que uma relação não faz bem nem sempre explica a dificuldade de fazer outra escolha. Essa observação me levou a olhar com mais atenção para os padrões e as referências emocionais presentes nessas histórias.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b004",
+              "tag": "p",
+              "text": "O workshop reúne essa perspectiva num exercício guiado de observação, com um olhar cuidadoso para o que cada participante deseja compreender.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b005",
+              "tag": "h4",
+              "text": "Relatos do acompanhamento individual de Stella",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b006",
+              "tag": "p",
+              "text": "Os trechos abaixo se referem a experiências individuais do acompanhamento, não a resultados deste workshop. Cada pessoa vive um percurso próprio.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b007",
+              "tag": "p",
+              "text": "“hoje consigo me entender melhor”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b008",
+              "tag": "cite",
+              "text": "Cristiane",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b009",
+              "tag": "p",
+              "text": "“Hoje me vejo com mais amor, reconhecimento e respeito pela pessoa que sou.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b010",
+              "tag": "cite",
+              "text": "Bruna Melo",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b011",
+              "tag": "p",
+              "text": "“ela me ajudou muito a me abrir nessa questão, a me posicionar melhor em situações e a saber lidar com os sentimentos...”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b012",
+              "tag": "cite",
+              "text": "Laísa Borges",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b013",
+              "tag": "p",
+              "text": "“Stella tem um cuidado e uma sensibilidade incrível em cada detalhe.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b014",
+              "tag": "cite",
+              "text": "Relato sem identificação",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b015",
+              "tag": "p",
+              "text": "“Ainda estou em processo de aprendizado, assim como nós dois estamos construindo nossa relação dia após dia.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s06-b016",
+              "tag": "cite",
+              "text": "Relato sem identificação",
+              "kind": "public",
+              "className": ""
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B1-s06-b001"
+              },
+              {
+                "type": "block",
+                "id": "B1-s06-b002"
+              },
+              {
+                "type": "block",
+                "id": "B1-s06-b003"
+              },
+              {
+                "type": "block",
+                "id": "B1-s06-b004"
+              },
+              {
+                "type": "block",
+                "id": "B1-s06-b005"
+              },
+              {
+                "type": "block",
+                "id": "B1-s06-b006"
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b007"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b008"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b009"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b010"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b011"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b012"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b013"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b014"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b015"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s06-b016"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "8": {
+          "number": 8,
+          "blocks": [
+            {
+              "id": "B1-s08-b001",
+              "tag": "h3",
+              "text": "O que o ingresso inclui",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s08-b002",
+              "tag": "div",
+              "text": "R$ 27",
+              "kind": "public",
+              "className": "price"
+            },
+            {
+              "id": "B1-s08-b003",
+              "tag": "li",
+              "text": "Participação no workshop ao vivo de 3 horas pelo Zoom.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s08-b004",
+              "tag": "li",
+              "text": "Prática guiada do Mapa do Padrão Afetivo.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s08-b005",
+              "tag": "li",
+              "text": "Definição de três critérios de reciprocidade.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s08-b006",
+              "tag": "li",
+              "text": "Mapa e checklist de apoio incluídos.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s08-b007",
+              "tag": "p",
+              "text": "Após a confirmação da inscrição, você recebe as orientações para o grupo de participantes e para acessar o encontro. O ingresso não inclui replay nem acompanhamento individual.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s08-b008",
+              "tag": "p",
+              "text": "Você tem 7 dias para solicitar reembolso. A decisão de participar pode ser tomada com clareza sobre a proposta do encontro.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s08-b009",
+              "tag": "p",
+              "text": "No checkout, você pode escolher complementos opcionais, sem obrigação de adicioná-los: gravação por 30 dias com Roteiro de Integração por R$ 27; ou uma sessão individual Leitura do Padrão, de 30 minutos com Stella, por R$ 47, sujeita à disponibilidade de agenda.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s08-b010",
+              "tag": "span",
+              "text": "Quero participar",
+              "kind": "public",
+              "className": "ready-cta"
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B1-s08-b001"
+              },
+              {
+                "type": "block",
+                "id": "B1-s08-b002"
+              },
+              {
+                "type": "group",
+                "tag": "ul",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B1-s08-b003"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s08-b004"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s08-b005"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B1-s08-b006"
+                  }
+                ]
+              },
+              {
+                "type": "block",
+                "id": "B1-s08-b007"
+              },
+              {
+                "type": "block",
+                "id": "B1-s08-b008"
+              },
+              {
+                "type": "block",
+                "id": "B1-s08-b009"
+              },
+              {
+                "type": "block",
+                "id": "B1-s08-b010"
+              }
+            ]
+          }
+        },
+        "9": {
+          "number": 9,
+          "blocks": [
+            {
+              "id": "B1-s09-b001",
+              "tag": "h3",
+              "text": "Dúvidas frequentes",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b002",
+              "tag": "h4",
+              "text": "Já conheço esse assunto. O que muda?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b003",
+              "tag": "p",
+              "text": "A proposta é colocar três histórias lado a lado. Você observa como começaram, quais sinais apareceram e o que se repetiu. O exercício parte das suas experiências, em vez de ficar apenas na explicação.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b004",
+              "tag": "h4",
+              "text": "Preciso contar minha história no grupo?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b005",
+              "tag": "p",
+              "text": "Você pode fazer os registros para si. A reflexão não exige expor nomes, conversas ou detalhes íntimos para outras participantes.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b006",
+              "tag": "h4",
+              "text": "Preciso estar num relacionamento?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b007",
+              "tag": "p",
+              "text": "Você pode usar histórias de relacionamentos ou envolvimentos anteriores. O exercício parte de experiências que deseja observar.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b008",
+              "tag": "h4",
+              "text": "Onde acontece e quanto dura?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b009",
+              "tag": "p",
+              "text": "O encontro é online e ao vivo pelo Zoom, com duração de 3 horas. Consulte a data e o horário da turma na inscrição.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b010",
+              "tag": "h4",
+              "text": "O ingresso inclui replay?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b011",
+              "tag": "p",
+              "text": "Não. A gravação por 30 dias com Roteiro de Integração é um complemento opcional de R$ 27, apresentado no checkout.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b012",
+              "tag": "h4",
+              "text": "A sessão individual está incluída?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b013",
+              "tag": "p",
+              "text": "Não. A Leitura do Padrão é um complemento opcional de R$ 47, com 30 minutos individuais e agendamento conforme disponibilidade. Ela é uma leitura focada do mapa.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b014",
+              "tag": "h4",
+              "text": "É possível pedir reembolso?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b015",
+              "tag": "p",
+              "text": "O ingresso tem garantia de 7 dias para solicitar reembolso. As condições de compra ficam disponíveis na inscrição.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B1-s09-b016",
+              "tag": "span",
+              "text": "Ver programa e inscrição",
+              "kind": "public",
+              "className": "ready-cta"
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B1-s09-b001"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b002"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b003"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b004"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b005"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b006"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b007"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b008"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b009"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b010"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b011"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b012"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b013"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b014"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b015"
+              },
+              {
+                "type": "block",
+                "id": "B1-s09-b016"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "B2": {
+      "id": "B2",
+      "route": "/a2",
+      "label": "Sinais de disponibilidade emocional",
+      "sections": {
+        "1": {
+          "number": 1,
+          "blocks": [
+            {
+              "id": "B2-s01-b002",
+              "tag": "div",
+              "text": "INTENSIDADE E RECIPROCIDADE",
+              "kind": "public",
+              "className": "label"
+            },
+            {
+              "id": "B2-s01-b003",
+              "tag": "h2",
+              "text": "Reconheça sinais de disponibilidade emocional",
+              "kind": "public",
+              "className": "page-headline"
+            },
+            {
+              "id": "B2-s01-b004",
+              "tag": "p",
+              "text": "Workshop ao vivo com Mapa do Padrão Afetivo.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s01-b005",
+              "tag": "p",
+              "text": "Workshop: Por que Você Sempre Escolhe Quem Não Te Escolhe?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s01-b006",
+              "tag": "span",
+              "text": "Ao vivo pelo Zoom",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s01-b007",
+              "tag": "span",
+              "text": "3 horas",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s01-b008",
+              "tag": "span",
+              "text": "Mapa e checklist",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s01-b009",
+              "tag": "span",
+              "text": "R$ 27",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s01-b010",
+              "tag": "span",
+              "text": "Quero participar",
+              "kind": "public",
+              "className": "ready-cta"
+            },
+            {
+              "id": "B2-s01-b011",
+              "tag": "p",
+              "text": "Uma conversa pode ser intensa e um encontro pode ser especial. A sequência de atitudes também conta: presença, coerência e espaço para conversar merecem entrar na leitura de uma relação.",
+              "kind": "public",
+              "className": ""
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "mini-hero",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B2-s01-b002"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s01-b003"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s01-b004"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s01-b005"
+                  },
+                  {
+                    "type": "group",
+                    "tag": "div",
+                    "className": "chips",
+                    "children": [
+                      {
+                        "type": "block",
+                        "id": "B2-s01-b006"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B2-s01-b007"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B2-s01-b008"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B2-s01-b009"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s01-b010"
+                  }
+                ]
+              },
+              {
+                "type": "block",
+                "id": "B2-s01-b011"
+              }
+            ]
+          }
+        },
+        "6": {
+          "number": 6,
+          "blocks": [
+            {
+              "id": "B2-s06-b001",
+              "tag": "h3",
+              "text": "Quem conduz",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b002",
+              "tag": "p",
+              "text": "Sou Stella Stuane, terapeuta emocional desde 2021, com formação em Terapias Integrativas e IMT. No meu trabalho, a escuta parte da história de cada mulher e das referências que ela construiu ao longo da vida.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b003",
+              "tag": "p",
+              "text": "Ao acompanhar mulheres, percebi como saber racionalmente que uma relação não faz bem nem sempre explica a dificuldade de fazer outra escolha. Essa observação me levou a olhar com mais atenção para os padrões e as referências emocionais presentes nessas histórias.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b004",
+              "tag": "p",
+              "text": "O workshop reúne essa perspectiva num exercício guiado de observação, com um olhar cuidadoso para o que cada participante deseja compreender.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b005",
+              "tag": "h4",
+              "text": "Relatos do acompanhamento individual de Stella",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b006",
+              "tag": "p",
+              "text": "Os trechos abaixo se referem a experiências individuais do acompanhamento, não a resultados deste workshop. Cada pessoa vive um percurso próprio.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b007",
+              "tag": "p",
+              "text": "“Hoje me vejo com mais amor, reconhecimento e respeito pela pessoa que sou.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b008",
+              "tag": "cite",
+              "text": "Bruna Melo",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b009",
+              "tag": "p",
+              "text": "“hoje consigo me entender melhor”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b010",
+              "tag": "cite",
+              "text": "Cristiane",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b011",
+              "tag": "p",
+              "text": "“ela me ajudou muito a me abrir nessa questão, a me posicionar melhor em situações e a saber lidar com os sentimentos...”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b012",
+              "tag": "cite",
+              "text": "Laísa Borges",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b013",
+              "tag": "p",
+              "text": "“Stella tem um cuidado e uma sensibilidade incrível em cada detalhe.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b014",
+              "tag": "cite",
+              "text": "Relato sem identificação",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b015",
+              "tag": "p",
+              "text": "“Ainda estou em processo de aprendizado, assim como nós dois estamos construindo nossa relação dia após dia.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s06-b016",
+              "tag": "cite",
+              "text": "Relato sem identificação",
+              "kind": "public",
+              "className": ""
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B2-s06-b001"
+              },
+              {
+                "type": "block",
+                "id": "B2-s06-b002"
+              },
+              {
+                "type": "block",
+                "id": "B2-s06-b003"
+              },
+              {
+                "type": "block",
+                "id": "B2-s06-b004"
+              },
+              {
+                "type": "block",
+                "id": "B2-s06-b005"
+              },
+              {
+                "type": "block",
+                "id": "B2-s06-b006"
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b007"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b008"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b009"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b010"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b011"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b012"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b013"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b014"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b015"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s06-b016"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "8": {
+          "number": 8,
+          "blocks": [
+            {
+              "id": "B2-s08-b001",
+              "tag": "h3",
+              "text": "O que o ingresso inclui",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s08-b002",
+              "tag": "div",
+              "text": "R$ 27",
+              "kind": "public",
+              "className": "price"
+            },
+            {
+              "id": "B2-s08-b003",
+              "tag": "li",
+              "text": "Participação no workshop ao vivo de 3 horas pelo Zoom.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s08-b004",
+              "tag": "li",
+              "text": "Prática guiada do Mapa do Padrão Afetivo.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s08-b005",
+              "tag": "li",
+              "text": "Definição de três critérios de reciprocidade.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s08-b006",
+              "tag": "li",
+              "text": "Mapa e checklist de apoio incluídos.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s08-b007",
+              "tag": "p",
+              "text": "Após a confirmação da inscrição, você recebe as orientações para o grupo de participantes e para acessar o encontro. O ingresso não inclui replay nem acompanhamento individual.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s08-b008",
+              "tag": "p",
+              "text": "O ingresso tem garantia de 7 dias para solicitar reembolso. A garantia se refere à compra, sem promessa de um resultado pessoal específico.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s08-b009",
+              "tag": "p",
+              "text": "No checkout, você pode escolher complementos opcionais, sem obrigação de adicioná-los: gravação por 30 dias com Roteiro de Integração por R$ 27; ou uma sessão individual Leitura do Padrão, de 30 minutos com Stella, por R$ 47, sujeita à disponibilidade de agenda.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s08-b010",
+              "tag": "span",
+              "text": "Quero participar",
+              "kind": "public",
+              "className": "ready-cta"
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B2-s08-b001"
+              },
+              {
+                "type": "block",
+                "id": "B2-s08-b002"
+              },
+              {
+                "type": "group",
+                "tag": "ul",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B2-s08-b003"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s08-b004"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s08-b005"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B2-s08-b006"
+                  }
+                ]
+              },
+              {
+                "type": "block",
+                "id": "B2-s08-b007"
+              },
+              {
+                "type": "block",
+                "id": "B2-s08-b008"
+              },
+              {
+                "type": "block",
+                "id": "B2-s08-b009"
+              },
+              {
+                "type": "block",
+                "id": "B2-s08-b010"
+              }
+            ]
+          }
+        },
+        "9": {
+          "number": 9,
+          "blocks": [
+            {
+              "id": "B2-s09-b001",
+              "tag": "h3",
+              "text": "Dúvidas frequentes",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b002",
+              "tag": "h4",
+              "text": "Vou aprender a identificar qualquer pessoa indisponível?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b003",
+              "tag": "p",
+              "text": "Não existe um teste que permita prever uma pessoa. Você vai observar atitudes, presença e coerência para avaliar suas relações com mais critérios.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b004",
+              "tag": "h4",
+              "text": "Vou precisar deixar de sentir para escolher?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b005",
+              "tag": "p",
+              "text": "O exercício não pede que você apague seus sentimentos. Ele ajuda a considerar também o que acontece na relação, para além da intensidade do começo.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b006",
+              "tag": "h4",
+              "text": "Preciso estar num relacionamento?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b007",
+              "tag": "p",
+              "text": "Você pode usar histórias de relacionamentos ou envolvimentos anteriores. O exercício parte de experiências que deseja observar.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b008",
+              "tag": "h4",
+              "text": "Onde acontece e quanto dura?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b009",
+              "tag": "p",
+              "text": "O encontro é online e ao vivo pelo Zoom, com duração de 3 horas. Consulte a data e o horário da turma na inscrição.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b010",
+              "tag": "h4",
+              "text": "O ingresso inclui replay?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b011",
+              "tag": "p",
+              "text": "Não. A gravação por 30 dias com Roteiro de Integração é um complemento opcional de R$ 27, apresentado no checkout.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b012",
+              "tag": "h4",
+              "text": "A sessão individual está incluída?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b013",
+              "tag": "p",
+              "text": "Não. A Leitura do Padrão é um complemento opcional de R$ 47, com 30 minutos individuais e agendamento conforme disponibilidade. Ela é uma leitura focada do mapa.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b014",
+              "tag": "h4",
+              "text": "É possível pedir reembolso?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b015",
+              "tag": "p",
+              "text": "O ingresso tem garantia de 7 dias para solicitar reembolso. As condições de compra ficam disponíveis na inscrição.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B2-s09-b016",
+              "tag": "span",
+              "text": "Ver programa e inscrição",
+              "kind": "public",
+              "className": "ready-cta"
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B2-s09-b001"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b002"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b003"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b004"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b005"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b006"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b007"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b008"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b009"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b010"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b011"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b012"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b013"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b014"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b015"
+              },
+              {
+                "type": "block",
+                "id": "B2-s09-b016"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "B3": {
+      "id": "B3",
+      "route": "/a3",
+      "label": "Critérios de reciprocidade",
+      "sections": {
+        "1": {
+          "number": 1,
+          "blocks": [
+            {
+              "id": "B3-s01-b002",
+              "tag": "div",
+              "text": "CUIDADO SEM SE ANULAR",
+              "kind": "public",
+              "className": "label"
+            },
+            {
+              "id": "B3-s01-b003",
+              "tag": "h2",
+              "text": "Defina seus critérios de reciprocidade",
+              "kind": "public",
+              "className": "page-headline"
+            },
+            {
+              "id": "B3-s01-b004",
+              "tag": "p",
+              "text": "Workshop ao vivo: três critérios escritos a partir das suas histórias.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s01-b005",
+              "tag": "p",
+              "text": "Workshop: Por que Você Sempre Escolhe Quem Não Te Escolhe?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s01-b006",
+              "tag": "span",
+              "text": "Ao vivo pelo Zoom",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s01-b007",
+              "tag": "span",
+              "text": "3 horas",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s01-b008",
+              "tag": "span",
+              "text": "Mapa e checklist",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s01-b009",
+              "tag": "span",
+              "text": "R$ 27",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s01-b010",
+              "tag": "span",
+              "text": "Quero participar",
+              "kind": "public",
+              "className": "ready-cta"
+            },
+            {
+              "id": "B3-s01-b011",
+              "tag": "p",
+              "text": "Compreender o outro pode dividir espaço com o cuidado consigo. Neste encontro, você olha para suas histórias e escreve o que considera importante numa relação recíproca.",
+              "kind": "public",
+              "className": ""
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "group",
+                "tag": "div",
+                "className": "mini-hero",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B3-s01-b002"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s01-b003"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s01-b004"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s01-b005"
+                  },
+                  {
+                    "type": "group",
+                    "tag": "div",
+                    "className": "chips",
+                    "children": [
+                      {
+                        "type": "block",
+                        "id": "B3-s01-b006"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B3-s01-b007"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B3-s01-b008"
+                      },
+                      {
+                        "type": "block",
+                        "id": "B3-s01-b009"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s01-b010"
+                  }
+                ]
+              },
+              {
+                "type": "block",
+                "id": "B3-s01-b011"
+              }
+            ]
+          }
+        },
+        "6": {
+          "number": 6,
+          "blocks": [
+            {
+              "id": "B3-s06-b001",
+              "tag": "h3",
+              "text": "Quem conduz",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b002",
+              "tag": "p",
+              "text": "Sou Stella Stuane, terapeuta emocional desde 2021, com formação em Terapias Integrativas e IMT. No meu trabalho, a escuta parte da história de cada mulher e das referências que ela construiu ao longo da vida.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b003",
+              "tag": "p",
+              "text": "Ao acompanhar mulheres, percebi como saber racionalmente que uma relação não faz bem nem sempre explica a dificuldade de fazer outra escolha. Essa observação me levou a olhar com mais atenção para os padrões e as referências emocionais presentes nessas histórias.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b004",
+              "tag": "p",
+              "text": "O workshop reúne essa perspectiva num exercício guiado de observação, com um olhar cuidadoso para o que cada participante deseja compreender.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b005",
+              "tag": "h4",
+              "text": "Relatos do acompanhamento individual de Stella",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b006",
+              "tag": "p",
+              "text": "Os trechos abaixo se referem a experiências individuais do acompanhamento, não a resultados deste workshop. Cada pessoa vive um percurso próprio.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b007",
+              "tag": "p",
+              "text": "“ela me ajudou muito a me abrir nessa questão, a me posicionar melhor em situações e a saber lidar com os sentimentos...”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b008",
+              "tag": "cite",
+              "text": "Laísa Borges",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b009",
+              "tag": "p",
+              "text": "“Hoje me vejo com mais amor, reconhecimento e respeito pela pessoa que sou.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b010",
+              "tag": "cite",
+              "text": "Bruna Melo",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b011",
+              "tag": "p",
+              "text": "“hoje consigo me entender melhor”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b012",
+              "tag": "cite",
+              "text": "Cristiane",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b013",
+              "tag": "p",
+              "text": "“Stella tem um cuidado e uma sensibilidade incrível em cada detalhe.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b014",
+              "tag": "cite",
+              "text": "Relato sem identificação",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b015",
+              "tag": "p",
+              "text": "“Ainda estou em processo de aprendizado, assim como nós dois estamos construindo nossa relação dia após dia.”",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s06-b016",
+              "tag": "cite",
+              "text": "Relato sem identificação",
+              "kind": "public",
+              "className": ""
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B3-s06-b001"
+              },
+              {
+                "type": "block",
+                "id": "B3-s06-b002"
+              },
+              {
+                "type": "block",
+                "id": "B3-s06-b003"
+              },
+              {
+                "type": "block",
+                "id": "B3-s06-b004"
+              },
+              {
+                "type": "block",
+                "id": "B3-s06-b005"
+              },
+              {
+                "type": "block",
+                "id": "B3-s06-b006"
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b007"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b008"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b009"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b010"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b011"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b012"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b013"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b014"
+                  }
+                ]
+              },
+              {
+                "type": "group",
+                "tag": "blockquote",
+                "className": "quote",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b015"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s06-b016"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "8": {
+          "number": 8,
+          "blocks": [
+            {
+              "id": "B3-s08-b001",
+              "tag": "h3",
+              "text": "O que o ingresso inclui",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s08-b002",
+              "tag": "div",
+              "text": "R$ 27",
+              "kind": "public",
+              "className": "price"
+            },
+            {
+              "id": "B3-s08-b003",
+              "tag": "li",
+              "text": "Participação no workshop ao vivo de 3 horas pelo Zoom.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s08-b004",
+              "tag": "li",
+              "text": "Prática guiada do Mapa do Padrão Afetivo.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s08-b005",
+              "tag": "li",
+              "text": "Definição de três critérios de reciprocidade.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s08-b006",
+              "tag": "li",
+              "text": "Mapa e checklist de apoio incluídos.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s08-b007",
+              "tag": "p",
+              "text": "Após a confirmação da inscrição, você recebe as orientações para o grupo de participantes e para acessar o encontro. O ingresso não inclui replay nem acompanhamento individual.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s08-b008",
+              "tag": "p",
+              "text": "O ingresso conta com garantia de 7 dias para solicitar reembolso. Conheça a proposta e escolha com cuidado se ela faz sentido para você.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s08-b009",
+              "tag": "p",
+              "text": "No checkout, você pode escolher complementos opcionais, sem obrigação de adicioná-los: gravação por 30 dias com Roteiro de Integração por R$ 27; ou uma sessão individual Leitura do Padrão, de 30 minutos com Stella, por R$ 47, sujeita à disponibilidade de agenda.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s08-b010",
+              "tag": "span",
+              "text": "Quero participar",
+              "kind": "public",
+              "className": "ready-cta"
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B3-s08-b001"
+              },
+              {
+                "type": "block",
+                "id": "B3-s08-b002"
+              },
+              {
+                "type": "group",
+                "tag": "ul",
+                "className": "",
+                "children": [
+                  {
+                    "type": "block",
+                    "id": "B3-s08-b003"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s08-b004"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s08-b005"
+                  },
+                  {
+                    "type": "block",
+                    "id": "B3-s08-b006"
+                  }
+                ]
+              },
+              {
+                "type": "block",
+                "id": "B3-s08-b007"
+              },
+              {
+                "type": "block",
+                "id": "B3-s08-b008"
+              },
+              {
+                "type": "block",
+                "id": "B3-s08-b009"
+              },
+              {
+                "type": "block",
+                "id": "B3-s08-b010"
+              }
+            ]
+          }
+        },
+        "9": {
+          "number": 9,
+          "blocks": [
+            {
+              "id": "B3-s09-b001",
+              "tag": "h3",
+              "text": "Dúvidas frequentes",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b002",
+              "tag": "h4",
+              "text": "Colocar critérios vai me deixar fria?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b003",
+              "tag": "p",
+              "text": "Critérios ajudam a dar nome ao que importa para você. É possível desejar proximidade e também observar respeito, presença e espaço para as suas necessidades.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b004",
+              "tag": "h4",
+              "text": "O workshop ensina como fazer alguém me escolher?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b005",
+              "tag": "p",
+              "text": "Não. A proposta é compreender suas escolhas e observar reciprocidade, sem estratégias para convencer outra pessoa a ficar.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b006",
+              "tag": "h4",
+              "text": "Preciso estar num relacionamento?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b007",
+              "tag": "p",
+              "text": "Você pode usar histórias de relacionamentos ou envolvimentos anteriores. O exercício parte de experiências que deseja observar.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b008",
+              "tag": "h4",
+              "text": "Onde acontece e quanto dura?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b009",
+              "tag": "p",
+              "text": "O encontro é online e ao vivo pelo Zoom, com duração de 3 horas. Consulte a data e o horário da turma na inscrição.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b010",
+              "tag": "h4",
+              "text": "O ingresso inclui replay?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b011",
+              "tag": "p",
+              "text": "Não. A gravação por 30 dias com Roteiro de Integração é um complemento opcional de R$ 27, apresentado no checkout.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b012",
+              "tag": "h4",
+              "text": "A sessão individual está incluída?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b013",
+              "tag": "p",
+              "text": "Não. A Leitura do Padrão é um complemento opcional de R$ 47, com 30 minutos individuais e agendamento conforme disponibilidade. Ela é uma leitura focada do mapa.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b014",
+              "tag": "h4",
+              "text": "É possível pedir reembolso?",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b015",
+              "tag": "p",
+              "text": "O ingresso tem garantia de 7 dias para solicitar reembolso. As condições de compra ficam disponíveis na inscrição.",
+              "kind": "public",
+              "className": ""
+            },
+            {
+              "id": "B3-s09-b016",
+              "tag": "span",
+              "text": "Ver programa e inscrição",
+              "kind": "public",
+              "className": "ready-cta"
+            }
+          ],
+          "tree": {
+            "type": "group",
+            "tag": "section",
+            "className": "document-copy",
+            "children": [
+              {
+                "type": "block",
+                "id": "B3-s09-b001"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b002"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b003"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b004"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b005"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b006"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b007"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b008"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b009"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b010"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b011"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b012"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b013"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b014"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b015"
+              },
+              {
+                "type": "block",
+                "id": "B3-s09-b016"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "additions": {
+    "ui-brand": "Stella Stuane",
+    "ui-nav-program": "O encontro",
+    "ui-nav-who": "Para quem",
+    "ui-nav-about": "Stella",
+    "ui-nav-offer": "Inscrição",
+    "ui-skip": "Ir para o conteúdo",
+    "ui-lot1": "Lote 1",
+    "ui-lot2": "Lote 2",
+    "ui-lot3": "Lote 3",
+    "ui-price2": "R$ 77",
+    "ui-price3": "R$ 127",
+    "ui-days": "Dias",
+    "ui-hours": "Horas",
+    "ui-minutes": "Minutos",
+    "ui-seconds": "Segundos",
+    "ui-seal-label": "Garantia",
+    "ui-seal-number": "7",
+    "ui-seal-unit": "dias",
+    "thanks-title": "Obrigado pelo seu interesse.",
+    "thanks-back": "Voltar ao workshop"
+  },
+  "brand": "Stella Stuane",
+  "principal": "B1"
+}
