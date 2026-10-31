@@ -78,7 +78,7 @@ function pointer(){
  if(!matchMedia('(hover: hover) and (pointer: fine)').matches)return;
  const art=document.querySelector('.hero-art');if(!art)return;
  const mat=art.querySelector('.art-mat');let frame=0,x=0,y=0;
- art.addEventListener('pointermove',event=>{const r=art.getBoundingClientRect();x=(event.clientX-r.left)/r.width-.5;y=(event.clientY-r.top)/r.height-.5;if(!frame)frame=requestAnimationFrame(()=>{mat.style.transform=`rotateX(${6-y*7}deg) rotateY(${-5+x*8}deg)`;frame=0})});
+ art.addEventListener('pointermove',event=>{const r=art.getBoundingClientRect();x=(event.clientX-r.left)/r.width-.5;y=(event.clientY-r.top)/r.height-.5;if(!frame)frame=requestAnimationFrame(()=>{mat.style.transform=`rotateX(${-y*3}deg) rotateY(${x*4}deg)`;frame=0})});
  art.addEventListener('pointerleave',()=>{if(frame)cancelAnimationFrame(frame);frame=0;mat.style.transform=''});
 }
 prepareMotion();timer();pointer();geometrySoon();
